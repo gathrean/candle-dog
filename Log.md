@@ -37,6 +37,6 @@ The Twelve Cities that the dog will encounter are in this order:
 | Tiger City   | Labing   | Fighting / Dark |
 | Dragon City  | Drake    | Fire            |
 
-
+The first 11 Kings are named after the first 11 numbers in Tagalog
 
 
