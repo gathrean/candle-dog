@@ -16,9 +16,9 @@ I'll try my best to write down everything (or key moments) as I go.
 - Tile-based map, battle cutscenes when approached by enemies
 - The player can change the name of their Candle Dog at the start of the game (I'll just call him Dog throughout this log)
 
-The kingdom is split into 12 Cities. The animals were born with elemental powers and to control order, each city has appointed a Mayor that is their  strongest. The main character Dog was born with a candle for a tail. Dog wanted to bring light into the world with his tail but has been mocked by society-- even in Dog City. Dog fled to Goat City, the most peaceful city in the kingdom. 
+The kingdom is split into 12 Cities. The animals were born with elemental powers and to control order, each city has appointed a Mayor that is their  strongest. The main character Candle Dog was born with a candle for a tail. Candle Dog wanted to bring light into the world with his tail but has been mocked by society-- even in Dog City. Dog fled to Goat City, the most peaceful city in the kingdom. 
 
-Dog later found out that the Dragon King, the most powerful creature in the kingdom, wasn't even born with any elemental powers but is still somehow that powerful. Usually Dragons are born with Fire but this guy doesn't... Dog goes on an adventure to investigate.
+Candle Dog later found out that the Dragon King, the most powerful creature in the kingdom, wasn't even born with any elemental powers but is still somehow that powerful. Usually Dragons are born with Fire but this guy doesn't... Candle Dog goes on an adventure to investigate.
 
 The Twelve Cities that the dog will encounter are in this order:
 
@@ -37,6 +37,8 @@ The Twelve Cities that the dog will encounter are in this order:
 | Tiger City   | Labing   | Fighting / Dark |
 | Dragon City  | Drake    | Fire            |
 
-The first 11 Kings are named after the first 11 numbers in Tagalog
+The first 11 Kings are named after the first 11 numbers in Tagalog, but the Dragon King is named after Drake kinda like a curveball.
+
+Each citizen will either be on the lookout for Candle Dog, or trying to help.
 
 
