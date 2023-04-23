@@ -38,7 +38,10 @@ The Twelve Cities that the dog will encounter are in this order:
 | 12. Dahas Country   | Dragon     | Drake        | Fire             |
 
 The city names are named after the elements that they are ruled by, translated to Tagalog.
-The ruler names are Tagalog numbers, in order. The Dragon King is named Drake though for banter purposes.
+The ruler names are Tagalog numbers, in order. 
 
-Each citizen will either be on the lookout for Candle Dog, or trying to help.
+The Tiger Mayor is named Manny because Manny Pacquiao is a famous Filipino boxer.
+The Dragon King is named Drake because I don't think there's a Tagalog word for Dragon.
+
+Each citizen will either be on the lookout to stop Candle Dog, or trying to help.
 
