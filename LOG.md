@@ -22,20 +22,20 @@ Candle Dog later found out that the Dragon King, the most powerful creature in t
 
 The Twelve Cities that the dog will encounter are in this order:
 
-| **City Name**   | **Animal** | **Ruled by** | **Main Element** |
-|-----------------|------------|--------------|------------------|
-| Mount Bundok    | Goat       | Isa          | Ice              |
-| Buhay Village   | Rabbit     | Dalawa       | Grass            |
-| Bato Village    | Rat        | Tatlo        | Rock             |
-| Lipad Town      | Pig        | Apat         | Wind / Air       |
-| Apoy Town       | Dog        | Lima         | Fire             |
-| Tanso City      | Rooster    | Anim         | Metal            |
-| Yente City      | Monkey     | Pito         | Electricity      |
-| Lason City      | Snake      | Walo         | Poison / Dark    |
-| Mundo Capital   | Ox         | Siyam        | Earth            |
-| Liwanag Capital | Horse      | Sampu        | Light / Holy     |
-| Laban Capital   | Tiger      | Manny        | Dark / Fighting  |
-| Dahas Country   | Dragon     | Drake        | Fire             |
+| **City Name**       | **Animal** | **Ruled by** | **Main Element** |
+|---------------------|------------|--------------|------------------|
+| 1. Mount Bundok     | Goat       | Isa          | Ice              |
+| 2. Buhay Village    | Rabbit     | Dalawa       | Grass            |
+| 3. Bato Village     | Rat        | Tatlo        | Rock             |
+| 4. Lipad Town       | Pig        | Apat         | Wind / Air       |
+| 5. Apoy Town        | Dog        | Lima         | Fire             |
+| 6. Tanso City       | Rooster    | Anim         | Metal            |
+| 7. Yente City       | Monkey     | Pito         | Electricity      |
+| 8. Lason City       | Snake      | Walo         | Poison / Dark    |
+| 9. Mundo Capital    | Ox         | Siyam        | Earth            |
+| 10. Liwanag Capital | Horse      | Sampu        | Light / Holy     |
+| 11. Laban Capital   | Tiger      | Manny        | Dark / Fighting  |
+| 12. Dahas Country   | Dragon     | Drake        | Fire             |
 
 The city names are named after the elements that they are ruled by, translated to Tagalog.
 The ruler names are Tagalog numbers, in order. The Dragon King is named Drake though for banter purposes.
