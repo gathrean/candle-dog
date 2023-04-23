@@ -23,7 +23,7 @@ Candle Dog later found out that the Dragon King, the most powerful creature in t
 The Twelve Cities that the dog will encounter are in this order:
 
 | City         | Ruled by | Main Element    |
-| ------------ | -------- | -------------   |
+|--------------|----------|-----------------|
 | Goat City    | Isa      | Ice             |
 | Rabbit City  | Dalawa   | Earth           |
 | Rat City     | Tatlo    | Electricity     |
