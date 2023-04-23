@@ -3,7 +3,7 @@ package com.candledog.game;
 public class Player {
   private float x;
   private float y;
-  private float speed;
+  private final float speed;
 
   public Player(float x, float y, float speed) {
     this.x = x;
@@ -12,8 +12,15 @@ public class Player {
   }
 
   public void move(float deltaX, float deltaY) {
-    x += deltaX * speed;
-    y += deltaY * speed;
+    // Round the player's position to the nearest pixel
+    float newX = Math.round(x + deltaX * speed);
+    float newY = Math.round(y + deltaY * speed);
+
+    // Only update the player's position if it has changed
+    if (newX != x || newY != y) {
+      x = newX;
+      y = newY;
+    }
   }
 
   public float getX() {
