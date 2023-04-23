@@ -1,13 +1,17 @@
 package com.candledog.game;
 
-/**
- * Main class.
- *
- * @author Gathrean Dela Cruz
- * @version 1.0
- */
+import com.badlogic.gdx.Game;
+import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
+
 public class Main {
+
   public static void main(String[] args) {
-    System.out.println("Hello world!");
+    new LwjglApplication(new Game() {
+      @Override
+      public void create() {
+
+      }
+    });
   }
+
 }

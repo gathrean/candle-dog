@@ -1,2 +1,1 @@
-rootProject.name = 'candle-dog'
-
+include 'desktop', 'ios', 'html', 'core'
