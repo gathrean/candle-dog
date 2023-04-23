@@ -116,3 +116,10 @@ project(":core") {
 
     }
 }
+
+sourceSets {
+    main {
+        resources.srcDirs = ["core/assets"]
+    }
+}
+
