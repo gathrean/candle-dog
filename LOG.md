@@ -22,26 +22,23 @@ Candle Dog later found out that the Dragon King, the most powerful creature in t
 
 The Twelve Cities that the dog will encounter are in this order:
 
-| City         | Ruled by | Main Element    |
-|--------------|----------|-----------------|
-| Goat City    | Isa      | Ice             |
-| Rabbit City  | Dalawa   | Earth           |
-| Rat City     | Tatlo    | Electricity     |
-| Pig City     | Apat     | Wind / Air      |
-| Dog City     | Lima     | Fire            |
-| Rooster City | Anim     | Metal           |
-| Monkey City  | Pito     | Grass           |
-| Snake City   | Walo     | Poison / Dark   |
-| Ox City      | Siyam    | Rock            |
-| Horse City   | Sampu    | Light / Holy    |
-| Tiger City   | Labing   | Fighting / Dark |
-| Dragon City  | Drake    | Fire            |
+| **City Name**   | **Animal** | **Ruled by** | **Main Element** |
+|-----------------|------------|--------------|------------------|
+| Mount Bundok    | Goat       | Isa          | Ice              |
+| Buhay Village   | Rabbit     | Dalawa       | Grass            |
+| Bato Village    | Rat        | Tatlo        | Rock             |
+| Lipad Town      | Pig        | Apat         | Wind / Air       |
+| Apoy Town       | Dog        | Lima         | Fire             |
+| Tanso City      | Rooster    | Anim         | Metal            |
+| Yente City      | Monkey     | Pito         | Electricity      |
+| Lason City      | Snake      | Walo         | Poison / Dark    |
+| Mundo Capital   | Ox         | Siyam        | Earth            |
+| Liwanag Capital | Horse      | Sampu        | Light / Holy     |
+| Laban Capital   | Tiger      | Manny        | Dark / Fighting  |
+| Dahas Country   | Dragon     | Drake        | Fire             |
 
-The first 11 Kings are named after the first 11 numbers in Tagalog, but the Dragon King is named after Drake kinda like a curveball.
+The city names are named after the elements that they are ruled by, translated to Tagalog.
+The ruler names are Tagalog numbers, in order. The Dragon King is named Drake though for banter purposes.
 
 Each citizen will either be on the lookout for Candle Dog, or trying to help.
 
-<<<<<<< HEAD
-
-=======
->>>>>>> e49d5af (Create LOG.md)
