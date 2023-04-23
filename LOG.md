@@ -41,4 +41,7 @@ The first 11 Kings are named after the first 11 numbers in Tagalog, but the Drag
 
 Each citizen will either be on the lookout for Candle Dog, or trying to help.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e49d5af (Create LOG.md)
