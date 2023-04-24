@@ -29,9 +29,11 @@ public class Game extends ApplicationAdapter {
 	@Override
 	public void create () {
 		batch = new SpriteBatch();
-		player = new Player(Gdx.graphics.getWidth() / 2f, Gdx.graphics.getHeight() / 2f, 3f);
+		player = new Player(Gdx.graphics.getWidth() / 2f, Gdx.graphics.getHeight() / 2f, 2f);
+
 		camera = new OrthographicCamera();
-		camera.setToOrtho(false, Gdx.graphics.getWidth(), Gdx.graphics.getHeight());
+		camera.setToOrtho(false, Gdx.graphics.getWidth() / 2f, Gdx.graphics.getHeight() / 2f);
+
 		shapeRenderer = new ShapeRenderer();
 		tileManager = new TileManager("data/maps/map2.txt");
 
@@ -60,12 +62,12 @@ public class Game extends ApplicationAdapter {
 			}
 		}
 
-// Draw the player as a white circle
+    // Draw the player as a white square
 		batch.end();
 		shapeRenderer.setProjectionMatrix(camera.combined);
 		shapeRenderer.begin(ShapeRenderer.ShapeType.Filled);
 		shapeRenderer.setColor(1, 1, 1, 1);
-		shapeRenderer.circle(Math.round(player.getX()), Math.round(player.getY()), 10);
+		shapeRenderer.rect(player.getX(), player.getY(), 16, 16);
 		shapeRenderer.end();
 
 	}
