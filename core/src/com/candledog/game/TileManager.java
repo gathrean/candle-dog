@@ -6,10 +6,10 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 
 public class TileManager {
-  public static final int TILE_SIZE = 64;
+  public static final int TILE_SIZE = 32;
 
-  private int[][] map;
-  private Texture[] textures;
+  private final int[][] map;
+  private final Texture[] textures;
 
   public TileManager(String mapPath) {
     // Read the map file
