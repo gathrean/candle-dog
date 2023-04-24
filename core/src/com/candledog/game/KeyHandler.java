@@ -4,7 +4,7 @@ import com.badlogic.gdx.Input;
 import com.badlogic.gdx.InputAdapter;
 
 public class KeyHandler extends InputAdapter {
-  private boolean[] keys = new boolean[256];
+  private final boolean[] keys = new boolean[256];
   private float deltaX;
   private float deltaY;
 
